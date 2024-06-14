@@ -1,0 +1,15 @@
+{
+    "name": "seld/test-pkg",
+    "autoload": {
+        "psr-4": {
+            "Seld\\TestPkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be"
+        }
+    ],
+    "require": {}
+}
